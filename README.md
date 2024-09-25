@@ -36,7 +36,7 @@ A simple supermarket billing system built using **HTML**, **CSS**, **Bootstrap**
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/supermarket-billing-system.git
+git clone https://github.com/Kathir1711/supermarket-bill.git
 cd supermarket-billing-system
 ```
 
@@ -59,7 +59,8 @@ To set up the backend (optional):
   node server.js
   ```
 
-The backend will run on `http://localhost:3000`.
+The backend will run on `http://localhost:3000`. 
+on run server
 
 ### 3. Frontend Setup
 
@@ -115,11 +116,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to expand this **README** to include any additional details as your project evolves!
-
----
-
-If you need further assistance with this `README.md`, feel free to ask!
-
-### Tip:
-Make sure to include steps for people to run the project correctly, and document all dependencies and setup steps in detail for easier onboarding.
