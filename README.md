@@ -36,7 +36,8 @@ A simple supermarket billing system built using **HTML**, **CSS**, **Bootstrap**
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Kathir1711/supermarket-bill.git
+git clone 
+https://github.com/Kathir1711/supermarket-bills-with-HTML-CSS-JS
 cd supermarket-billing-system
 ```
 
