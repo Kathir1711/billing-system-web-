@@ -1,6 +1,4 @@
-Here's a sample `README.md` for your **Supermarket Billing System** project. This file explains the purpose of the project, how to install and run it, and how the features work. You can include it in the root folder of your project.
 
----
 
 # Supermarket Billing System
 
