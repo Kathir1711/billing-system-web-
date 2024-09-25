@@ -6,13 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const quoteElement = document.getElementById('quote');
     let items = [];
 
-    // Display current date, time, and bill number
+    
     const currentDate = new Date();
     document.getElementById('currentDate').textContent = currentDate.toLocaleDateString();
     document.getElementById('currentTime').textContent = currentDate.toLocaleTimeString();
     document.getElementById('billNo').textContent = 'SMK-' + Math.floor(Math.random() * 1000000);
 
-    // Quotes list
+    
     const quotes = [
         "Success is not final; failure is not fatal: It is the courage to continue that counts.",
         "Opportunities don't happen, you create them.",
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Great things never come from comfort zones."
     ];
 
-    // Display a random quote
+    
     quoteElement.textContent = quotes[Math.floor(Math.random() * quotes.length)];
 
     document.getElementById('addItem').addEventListener('click', () => {
@@ -54,11 +54,11 @@ document.addEventListener('DOMContentLoaded', () => {
             totalBill += item.total;
         });
 
-        // Calculate savings (10% discount)
+        
         const savings = totalBill * 0.1;
         savingsElement.textContent = savings.toFixed(2);
 
-        // Update total amount and round-off total
+        
         totalAmount.textContent = totalBill.toFixed(2);
         roundOffTotal.textContent = Math.round(totalBill - savings);
     }
