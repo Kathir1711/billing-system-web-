@@ -113,7 +113,8 @@ supermarket-billing-system/
 ![image](https://github.com/user-attachments/assets/c71489f7-543b-46b5-844a-b4da692b49a2)
 ![image](https://github.com/user-attachments/assets/bd2b3af3-fb05-4e40-80b8-69b6b9dfdc36)
 ![image](https://github.com/user-attachments/assets/3794ca8f-f827-4833-9f29-defd746504ea)
-![image](https://github.com/user-attachments/assets/1398fa24-26ed-45f6-a884-ed8a46517171)
+![image](https://github.com/user-attachments/assets/39562e35-a47b-4d97-8036-3e0c28cdfc82)
+
 
 
 
