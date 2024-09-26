@@ -105,9 +105,6 @@ supermarket-billing-system/
 - **User Authentication**: Implement user login for saving billing history.
 - **Mobile Optimization**: Further optimize the UI for mobile users.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
