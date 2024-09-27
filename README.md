@@ -1,8 +1,8 @@
 
 
-# Supermarket Billing System
+#  Billing System
 
-A simple supermarket billing system built using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Node.js** (backend). This system allows users to create a bill by adding items, quantities, and prices, while calculating total amounts, savings, and round-off values. It includes a print functionality and displays rotating quotes for customer engagement.
+A simple billing system built using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Node.js** (backend). This system allows users to create a bill by adding items, quantities, and prices, while calculating total amounts, savings, and round-off values. It includes a print functionality and displays rotating quotes for customer engagement.
 
 ## Features
 
@@ -37,8 +37,8 @@ A simple supermarket billing system built using **HTML**, **CSS**, **Bootstrap**
 ### 1. Clone the repository
 ```bash
 git clone 
-https://github.com/Kathir1711/supermarket-bills-with-HTML-CSS-JS
-cd supermarket-billing-system
+https://github.com/Kathir1711/billing system web
+cd billing system web
 ```
 
 ### 2. Backend Setup (Node.js)
@@ -61,7 +61,7 @@ To set up the backend (optional):
   ```
 
 The backend will run on `http://localhost:3000`. 
-on run server
+your local server
 
 ### 3. Frontend Setup
 
@@ -83,7 +83,7 @@ on run server
 ## Project Structure
 
 ```
-supermarket-billing-system/
+billing-system/
 │
 ├── backend/                 # Backend code
 │   ├── server.js            # Express server code
