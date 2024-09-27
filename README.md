@@ -36,8 +36,8 @@ A simple billing system built using **HTML**, **CSS**, **Bootstrap**, **JavaScri
 
 ### 1. Clone the repository
 ```bash
-git clone 
-https://github.com/Kathir1711/billing system web
+git clone
+https://github.com/Kathir1711/billing-system-web-/
 cd billing system web
 ```
 
