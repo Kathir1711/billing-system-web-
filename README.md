@@ -1,8 +1,8 @@
 
 
-#  Billing System
+#  software System that contains
 
-A simple billing system built using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Node.js** (backend). This system allows users to create a bill by adding items, quantities, and prices, while calculating total amounts, savings, and round-off values. It includes a print functionality and displays rotating quotes for customer engagement.
+A simple hypermarket soluations system built using **HTML**, **CSS**, **Bootstrap**, **JavaScript**, and **Node.js** (backend). This system allows users to create a bill by adding items, quantities, and prices, while calculating total amounts, savings, and round-off values. It includes a print functionality and displays rotating quotes for customer engagement.
 
 ## Features
 
